@@ -1,4 +1,5 @@
-# This Repo builds a API for a deep learning model using the Flask framework.
+
+This Repo builds a API for a deep learning model using the Flask framework.
 To replicate the example in this repo:
 
 * Run notebook to train,evalute and save model
